@@ -1,0 +1,16 @@
+# Bỏ qua file dữ liệu nặng & file xuất kết quả tạm
+*.csv
+*.json
+*.parquet
+
+# Bỏ qua file trọng số mô hình PyTorch
+*.pth
+*.pt
+*.h5
+*.onnx
+
+# Bỏ qua bộ nhớ tạm Python/VSCode/Anaconda
+.venv/
+.vscode/
+__pycache__/
+.ipynb_checkpoints/
