@@ -1,0 +1,7 @@
+# Pyrefly Configuration for Anaconda olpai2026 Environment
+python_interpreter = "C:\\Users\\aaa\\anaconda3\\envs\\olpai2026\\python.exe"
+
+[pyrefly]
+search_paths = [
+    "C:\\Users\\aaa\\anaconda3\\envs\\olpai2026\\Lib\\site-packages"
+]
