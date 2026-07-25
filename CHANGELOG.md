@@ -8,7 +8,7 @@ Tất cả những thay đổi quan trọng của dự án sẽ được ghi nh�
 
 ### Added
 - Khởi tạo môi trường phát triển và cài đặt hoàn tất các gói thư viện ML/DL: `xgboost`, `lightgbm`, `catboost`, `optuna`, `timm`, `transformers`, `albumentations`.
-- Tạo thư mục `GiaiDoan1_Tabular_Data` chuẩn bị cho chuỗi bài tập Machine Learning dữ liệu bảng.
+- Tạo thư mục `GiaiDoan1_Tabular_Data` và xây dựng bài tập mẫu `01_Tabular_ML_Pipeline.ipynb` (XGBoost, LightGBM, Stratified K-Fold CV & Ensembling).
 
 ### Changed
 - Cấu hình môi trường Conda mặc định (`olpai2026`) cho VS Code workspace và Pyrefly Language Analyzer (`pyrefly.toml`).
