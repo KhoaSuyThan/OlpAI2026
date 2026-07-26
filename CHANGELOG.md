@@ -4,11 +4,18 @@ Tất cả những thay đổi quan trọng của dự án sẽ được ghi nh�
 
 ---
 
-## [Unreleased] - 2026-07-25
+## [Unreleased] - 2026-07-26
+
+### Added
+- Tạo Kế hoạch thực hành Giai đoạn 1 (`phase1_implementation_plan.md`) chi tiết.
+- Xây dựng bài tập thực hành `GiaiDoan1_Tabular_Data/02_CatBoost_and_Encoding.ipynb` hướng dẫn sử dụng Native Categorical Features của CatBoost và So sánh điểm Out-Of-Fold giữa 3 mô hình XGBoost, LightGBM, CatBoost.
+
+---
+
+## [0.1.0] - 2026-07-25
 
 ### Added
 - Khởi tạo môi trường phát triển và cài đặt hoàn tất các gói thư viện ML/DL: `xgboost`, `lightgbm`, `catboost`, `optuna`, `timm`, `transformers`, `albumentations`.
-- Tạo thư mục `GiaiDoan1_Tabular_Data` và xây dựng bài tập mẫu `01_Tabular_ML_Pipeline.ipynb` (XGBoost, LightGBM, Stratified K-Fold CV & Ensembling).
 
 ### Changed
 - Cấu hình môi trường Conda mặc định (`olpai2026`) cho VS Code workspace và Pyrefly Language Analyzer (`pyrefly.toml`).
