@@ -4,6 +4,16 @@ Tất cả những thay đổi quan trọng của dự án sẽ được ghi nh�
 
 ---
 
+## [Unreleased] - 2026-07-27
+
+### Added
+- Viết lại toàn bộ 2 file tài liệu giải thích `GiaiDoan0/EXPLANATION_PHASE0.md` và `GiaiDoan1_Tabular_Data/EXPLANATION_PHASE1.md` theo góc nhìn Kỹ sư Phần mềm (Software Engineers): Bảng quy đổi thuật ngữ AI sang khái niệm Phần mềm, gắn ngữ cảnh bài toán doanh nghiệp thực tế (Bank Fraud Detection, Telecom Churn, Credit Scoring, Property Valuation) và phân tích từng bước xử lý dữ liệu.
+- Bổ sung notebook `GiaiDoan1_Tabular_Data/03_Optuna_Submission_and_Feature_Importance.ipynb` hoàn thiện Giai đoạn 1 với các kỹ thuật: Handling Outliers (IQR Clipping), Label Encoding, Feature Importance Analysis, Optuna Hyperparameter Tuning và luồng K-Fold Ensemble Inference.
+- Tạo thành công file nộp bài mẫu `GiaiDoan1_Tabular_Data/submission_phase1.csv` đúng quy chuẩn `index=False` và `encoding='utf-8'`.
+- Cập nhật tài liệu hướng dẫn và giải thích chi tiết notebook 03 trong `GiaiDoan1_Tabular_Data/EXPLANATION_PHASE1.md`.
+
+---
+
 ## [Unreleased] - 2026-07-26
 
 ### Added
