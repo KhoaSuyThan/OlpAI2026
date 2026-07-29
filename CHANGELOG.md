@@ -3,7 +3,14 @@
 Tất cả những thay đổi quan trọng của dự án sẽ được ghi nhận tại đây.
 
 ---
+## [Unreleased] - 2026-07-29
 
+### Added
+- Phân tích chi tiết và khởi tạo 2 tài liệu hướng dẫn sư phạm chuyên sâu cho mảng NLP Recurrent Neural Networks:
+  - `GiaiDoan1_Tabular_Data/01_text_classification_rnn.md`: Giải thích toàn bộ luồng Sentiment Analysis tiếng Việt, kỹ thuật `pack_padded_sequence`, so sánh Vanilla RNN, GRU, LSTM và đáp án chi tiết các câu hỏi thực hành.
+  - `GiaiDoan1_Tabular_Data/02_pos_tagging_bilstm.md`: Giải thích bài toán POS Tagging (Sequence Labelling), quy trình gom câu không rò rỉ dữ liệu, cơ chế đệm đồng thời, so sánh Unidirectional LSTM vs BiLSTM và giải thích lý do BiLSTM đạt F1-Score vượt trội (92.49% vs 87.22%).
+
+  
 ## [Unreleased] - 2026-07-27
 
 ### Added
