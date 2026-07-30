@@ -3,6 +3,11 @@
 Tất cả những thay đổi quan trọng của dự án sẽ được ghi nhận tại đây.
 
 ---
+## [Unreleased] - 2026-07-30
+
+### Added
+- Khởi tạo tài liệu Lộ trình Ôn tập & Hệ thống hóa Kiến thức Buổi 02 (`GiaiDoan1_Tabular_Data/LO_TRINH_ON_TAP_BUOI_02.md`): Phân tích lý thuyết toán học (RNN, GRU, LSTM, BiRNN), ma trận ánh xạ 4 kiến trúc NLP với 2 notebook bài tập thực hành (`01_text_classification_rnn.ipynb` & `02_pos_tagging_bilstm.ipynb`), lộ trình học 4 bước và bộ 6 câu hỏi tự đánh giá.
+
 ## [Unreleased] - 2026-07-29
 
 ### Added
