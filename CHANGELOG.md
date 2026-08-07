@@ -3,6 +3,17 @@
 Tất cả những thay đổi quan trọng của dự án sẽ được ghi nhận tại đây.
 
 ---
+
+---
+## [Unreleased] - 2026-08-07
+
+### Added
+- Khởi tạo bộ 3 tài liệu giải thích chi tiết và hệ thống hóa kiến thức cho Tuần 2 (Neural Machine Translation & Attention Mechanisms):
+  - `Tuan2/01_en_vi_seq2seq_no_attention.md`: Giải thích chi tiết kiến trúc Seq2Seq Encoder-Decoder LSTM không Attention, quy trình làm sạch dữ liệu IWSLT'15, dynamic padding, Teacher Forcing và Greedy Decoding.
+  - `Tuan2/02_en_vi_seq2seq_bahdanau_attention.md`: Giải thích cơ chế Bahdanau Additive Attention, công thức toán học, kỹ thuật Padding Masking, trực quan hóa ma trận Attention Alignment và Length Benchmark.
+  - `Tuan2/EXPLANATION_PHASE2.md`: Tài liệu tổng hợp Giai đoạn 2 theo góc nhìn Kỹ sư Phần mềm (Software Engineer), quy đổi thuật ngữ AI sang khái niệm Phần mềm, phân tích luồng dữ liệu và các lưu ý trọng tâm cho kỳ thi OlpAI.
+
+---
 ## [Unreleased] - 2026-07-30
 
 ### Added
