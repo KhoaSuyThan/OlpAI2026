@@ -3,6 +3,11 @@
 Tất cả những thay đổi quan trọng của dự án sẽ được ghi nhận tại đây.
 
 ---
+## [Unreleased] - 2026-08-07
+
+### Added
+- Khởi tạo tài liệu giải thích chi tiết `Tuan2/03_en_vi_seq2seq_luong_attention.md` cho notebook 03: Phân tích 27 phần (55 Cells), công thức toán học Luong Multiplicative Attention ($h_t^T W_a h_j$), kỹ thuật `pack_padded_sequence`, lớp PyTorch (`LuongGeneralAttention`, `LuongDecoderLSTM`), Tensor Shape Flow và đánh giá benchmark theo độ dài câu.
+- Cập nhật tài liệu tổng quan `Tuan2/EXPLANATION_PHASE2.md` bổ sung bảng so sánh đối chiếu 3 kiến trúc: **No-Attention vs Bahdanau Attention vs Luong Attention**.
 
 ---
 ## [Unreleased] - 2026-08-07
